@@ -1,0 +1,505 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+:root{
+    --background-color: #fff;
+    --nav-clolor: #242628;
+    --header-body-color: #272d40;
+    --price-color: #04d928;
+    --gray-color: rgb(213, 213, 213);
+    --subnav-color: rgba(0, 112, 224, 1);
+    --white-color: rgb(255, 255, 255);
+    --search-color: #2b303b;
+    --text-search-color: #63717f;
+    --icon-search-color: #4f5b66;
+    --red-pink-color: #EE4A7B;
+    --blue-white-color: #3DB1F5;
+    --red-orange-color: #E24A3F;
+    --price-color: rgb(141, 141, 241);
+}
+
+body{
+    position: absolute;
+    width: 100%;
+    background-color: var(--header-body-color);
+}
+
+body .logo{
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    /* border-radius: 50%; */
+    margin: 5px 10px;
+    top: -2%;
+    position: fixed;
+    z-index: 2;
+    left: 3%;
+}
+
+body .shop_name{
+    position: fixed;
+    height:5%;
+    width: 15%;
+    top: 120px;
+    left: 2%;
+    font-size: 28px;
+    color: white;
+    z-index: 2;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-family: Trebuchet MS;
+}
+#header{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    z-index: 1;
+    background: var(--header-body-color);
+}
+
+
+
+#header .navigation{
+    height: 50px;
+    position: relative;
+    line-height: 50px;
+    margin: 0 0 0 70px;
+
+}
+
+#header .navigation .icon-container{
+    width: 25%;
+    top: 0;
+    height: 50px;
+    position: relative;
+    left: 65%;
+}
+
+#header .navigation .icon-container .input{
+    width: 300px;
+    height: 50px;
+    background: var(--header-body-color);
+    border: none;
+    font-size: 15px;
+    float: left;
+    color: var(--text-search-color);
+    padding-left: 45px;
+    border-radius: 5px;
+}
+
+#header .navigation .icon-container .ti-search{
+    position: absolute;
+    top: 10px;
+    left: 1.7%;
+    font-size: 27px;
+    z-index: 1;
+    color: var(--icon-search-color);
+}
+
+#header .navigation .icon-container .input:focus{
+    outline: none;
+}
+
+#header .navigation .icon-container .input::selection{
+    background-color: var(--white-color);
+}
+
+#header .ti-bell,
+#header .ti-power-off,
+#header .ti-shopping-cart-full{
+    position: relative;
+    color: var(--icon-search-color);
+    font-size: 27px;
+    top: -50px;
+    left: 95%;
+    line-height: 50px;
+}
+
+#header .ti-power-off{
+    background-color: var(--header-body-color);
+    border: none;
+}
+
+#header .ti-bell{
+    left: 62%;
+}
+#header .ti-shopping-cart-full{
+    left: 87%;
+}
+#header .ti-bell:hover,
+#header .ti-power-off:hover,
+#header .ti-shopping-cart-full:hover,
+#header .navigation .icon-container .ti-search:hover{
+    cursor: pointer;
+}
+
+#content{
+    position: absolute;
+    top: 50px;
+    left: 17%;
+    width: 76%;
+}
+#content #banner{
+    position: absolute;
+    height: 500px;
+    width: 100%;
+    top: 8px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+#content .sp{
+    top: 518px;
+    height: 305px;
+    display: inline-block;
+    position: relative;
+    width: calc(100%/5);
+    margin-left: 40px;
+}
+#content .sp .image{
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    text-align: center;
+}
+
+#content .sp .image img{
+    width: 90%;
+    height: 90%;
+    border-radius: 15px;
+    transition: 0.2s;
+}
+
+#content .sp .name{
+    top: 68%;
+    position: absolute;
+    height: 20%;
+    line-height: 30px;
+    font-size: 15px;
+    font-weight: normal;
+    color: var(--gray-color);
+    text-overflow: ellipsis;
+    width: 90%; 
+}
+
+#content .sp .image:hover img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+#content .price{
+    position: absolute;
+    top: 85%;
+    height: 10%;
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: normal;
+    color: var(--price-color);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.duong_f{
+    width: 100%;
+    position: relative;
+    top: 1221px;
+    border: 1px solid var(--gray-color);
+}
+
+#che{
+    position: fixed;
+    width: 13.7%;
+    height: 118px;
+    top: 50px;
+    left: 3%;
+    z-index: 1;
+    background-color: var(--header-body-color);
+}
+
+#menu{
+    position: relative;
+    width: 1360px;
+    height: 420px;
+    top: 175px;
+    left: 3%;
+    overflow: hidden;
+}
+
+#menu .main_menu{
+    width: 13%;
+    height: 100%/3;
+    line-height: 40px;
+    padding: 0px 0 0 0px;
+    border-radius: 15px;
+    font-size: 15px;
+    overflow: hidden;
+    color: white;
+    background-color: rgba(255, 255,255, 0.1);
+}
+
+#menu .main_menu a{
+    text-decoration: none;
+    color: white;
+}
+#menu .main_menu span{
+    font-size: 23px;
+    left: 50%;
+}
+#menu .main_menu img{
+    vertical-align: middle;
+}
+
+#menu .main_menu .pc:hover,
+#menu .main_menu .card:hover,
+#menu .main_menu .laptop:hover,
+#menu .main_menu .gaming:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255,255, 0.3);
+}
+#menu .main_menu .pc .sub_menu_pc,
+#menu .main_menu .card .sub_menu_card,
+#menu .main_menu .laptop .sub_menu_lap,
+#menu .main_menu .gaming .sub_menu_gaming{
+    position: absolute;
+    height: 80%;
+    width: 60%;
+    background: linear-gradient(to bottom, #56575C, rgba(39, 45, 64, 0.8));
+    top: -1500%;
+    left: 13%;
+    z-index: 0;
+    border-radius: 10px;
+    transition: 0.4s;
+    transition-delay: 0.2s;
+    overflow: hidden;
+}
+#menu .pc:hover .sub_menu_pc,
+#menu .card:hover .sub_menu_card,
+#menu .laptop:hover .sub_menu_lap,
+#menu .gaming:hover .sub_menu_gaming{
+    display: block;
+    top: 0%;
+}
+
+#menu .main_menu .gaming .sub_menu_gaming .ban_phim,
+#menu .main_menu .gaming .sub_menu_gaming .head_phone,
+#menu .main_menu .gaming .sub_menu_gaming .gaming_mouse,
+#menu .main_menu .card .sub_menu_card .gia,
+#menu .main_menu .card .sub_menu_card .thinh_hanh,
+#menu .main_menu .card .sub_menu_card .thuong_hieu,
+#menu .main_menu .laptop .sub_menu_lap .gia,
+#menu .main_menu .laptop .sub_menu_lap .cau_hinh,
+#menu .main_menu .laptop .sub_menu_lap .thuong_hieu,
+#menu .main_menu .pc .sub_menu_pc .gia,
+#menu .main_menu .pc .sub_menu_pc .cau_hinh,
+#menu .main_menu .pc .sub_menu_pc .thuong_hieu{
+    position: absolute;
+    width: calc(100%/3);
+    height: 100%;
+    color:rgb(145, 215, 243);
+    text-align: left;
+    padding-left: 20px;
+    text-align: center;
+}
+
+#menu .main_menu .gaming .sub_menu_gaming .gaming_mouse{
+    left: calc(100%/2)
+}
+
+#menu .main_menu .pc .sub_menu_pc .cau_hinh,
+#menu .main_menu .card .sub_menu_card .thinh_hanh,
+#menu .main_menu .laptop .sub_menu_lap .cau_hinh{
+    left: calc(100%/3);
+}
+#menu .main_menu .gaming .sub_menu_gaming .head_phone,
+#menu .main_menu .card .sub_menu_card .gia,
+#menu .main_menu .pc .sub_menu_pc .gia,
+#menu .main_menu .laptop .sub_menu_lap .gia{
+    left: calc(2*100%/3);
+}
+#menu .main_menu .gaming .sub_menu_gaming .ban_phim h5,
+#menu .main_menu .gaming .sub_menu_gaming .head_phone h5,
+#menu .main_menu .gaming .sub_menu_gaming .gaming_mouse h5,
+#menu .main_menu .card .sub_menu_card .gia h5,
+#menu .main_menu .card .sub_menu_card .thinh_hanh h5,
+#menu .main_menu .card .sub_menu_card .thuong_hieu h5,
+#menu .main_menu .pc .sub_menu_pc .gia h5,
+#menu .main_menu .pc .sub_menu_pc .cau_hinh h5,
+#menu .main_menu .pc .sub_menu_pc .thuong_hieu h5,
+#menu .main_menu .laptop .sub_menu_lap .gia h5,
+#menu .main_menu .laptop .sub_menu_lap .cau_hinh h5,
+#menu .main_menu .laptop .sub_menu_lap .thuong_hieu h5{
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#menu .main_menu .gaming .sub_menu_gaming .ban_phim a,
+#menu .main_menu .gaming .sub_menu_gaming .head_phone a,
+#menu .main_menu .gaming .sub_menu_gaming .gaming_mouse a,
+#menu .main_menu .card .sub_menu_card .gia a,
+#menu .main_menu .card .sub_menu_card .thinh_hanh a,
+#menu .main_menu .card .sub_menu_card .thuong_hieu a,
+#menu .main_menu .pc .sub_menu_pc .gia a,
+#menu .main_menu .pc .sub_menu_pc .cau_hinh a,
+#menu .main_menu .pc .sub_menu_pc .thuong_hieu a,
+#menu .main_menu .laptop .sub_menu_lap .gia a,
+#menu .main_menu .laptop .sub_menu_lap .cau_hinh a,
+#menu .main_menu .laptop .sub_menu_lap .thuong_hieu a{
+    text-decoration: none;
+}
+
+#menu .main_menu .gaming .sub_menu_gaming .ban_phim h5:hover,
+#menu .main_menu .gaming .sub_menu_gaming .head_phone h5:hover,
+#menu .main_menu .gaming .sub_menu_gaming .gaming_mouse h5:hover,
+#menu .main_menu .card .sub_menu_card .gia h5:hover,
+#menu .main_menu .card .sub_menu_card .thinh_hanh h5:hover,
+#menu .main_menu .card .sub_menu_card .thuong_hieu h5:hover,
+#menu .main_menu .pc .sub_menu_pc .gia h5:hover,
+#menu .main_menu .pc .sub_menu_pc .cau_hinh h5:hover,
+#menu .main_menu .pc .sub_menu_pc .thuong_hieu h5:hover,
+#menu .main_menu .laptop .sub_menu_lap .gia h5:hover,
+#menu .main_menu .laptop .sub_menu_lap .cau_hinh h5:hover,
+#menu .main_menu .laptop .sub_menu_lap .thuong_hieu h5:hover{
+    background-color: #272d40;
+    border-radius: 7px;
+    color: white;
+}
+
+
+#contact{
+    position: fixed;
+    width:7%;
+    height: 30%;
+    top: 30%;
+    left: 94%;
+    z-index: 1;
+}
+
+#contact img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto;
+    transition: 0.2s;
+}
+
+#contact .chat img{
+    height: 80px;
+    width: 80px;
+    margin: 40px auto;
+}
+#contact .chat img:hover{
+    height: 90px;
+    width: 90px;
+}
+
+#contact img:hover{
+    height: 70px;
+    width: 70px;
+    cursor: pointer;
+}
+
+#footer{
+    position: absolute;
+    top: 1698px;
+    width: 100%;
+    height: 330px;
+    background-color: var(--header-body-color);
+}
+
+#footer a{
+    text-decoration: none;
+    color: gray;
+}
+
+#footer h3{
+    color: var(--gray-color);
+    padding-bottom: 20px;
+}
+
+#footer h5{
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+
+#footer h5:hover{
+    font-size: 20px;
+}
+
+#footer .suport{
+    left: 6%;
+    position: absolute;
+    height: 249px;
+    width: auto;
+}
+#footer .chinh-sach{
+    position: absolute;
+    height: 249px;
+    width: auto;
+    left: 33%;
+
+}
+#footer .thong-tin-shop{
+    position: absolute;
+    height: 249px;
+    width: auto;
+    left: 65%;
+
+}
+#footer .lien-he{
+    position: absolute;
+    height: 249px;
+    width: auto;
+    left: 85%;
+}
+
+#footer .lien-he .a{
+    color: var(--blue-white-color);
+}
+
+#footer .lien-he .b{
+    color: gray;
+    cursor:auto;
+}

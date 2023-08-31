@@ -1,0 +1,1127 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Eduweb</Author>
+  <LastAuthor>PC</LastAuthor>
+  <LastSaved>2021-12-21T08:45:14Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>C:\Program Files (x86)\CambridgeSoft\ChemOffice2014\ChemDraw for Excel\ChemDrawExcel14.xla</Path>
+   <SheetName>Sheet1</SheetName>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>0</SheetIndex>
+   </Xct>
+  </SupBook>
+  <WindowHeight>0</WindowHeight>
+  <WindowWidth>2370</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="m200042512">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s69">
+   <NumberFormat ss:Format="dd\-mmm"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="104" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="16.5">
+   <Column ss:AutoFitWidth="0" ss:Width="33.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:AutoFitWidth="0" ss:Width="114.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="48"/>
+   <Column ss:AutoFitWidth="0" ss:Width="74.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:AutoFitWidth="0" ss:Width="43.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="55.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="48.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">Đại Học Thủ Dầu Một-Phòng Đào Tạo Đại Học</Data></Cell>
+    <Cell ss:Index="5" ss:MergeAcross="4"><Data ss:Type="String">Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">Đại Học Thủ Dầu Một</Data></Cell>
+    <Cell ss:Index="5" ss:MergeAcross="4"><Data ss:Type="String">Độc lập  - Tự do - Hạnh Phúc</Data></Cell>
+   </Row>
+   <Row ss:Index="4" ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:MergeAcross="4"><Data ss:Type="String">Bảng ghi điểm chuyên cần và kiểm tra</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:MergeAcross="4"><Data ss:Type="String">Học kỳ 2 - Năm học 2021-2022</Data></Cell>
+   </Row>
+   <Row ss:Index="7" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Tên môn học: Phương pháp nghiên cứu khoa học (3+0)</Data></Cell>
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">Mã môn học/ mã nhóm: KTCH001HPC.KTCN.02  </Data></Cell>
+    <Cell><Data ss:Type="String">Số tín chỉ: 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Tên Giảng viên: Phạm Đình Dũ</Data></Cell>
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Mã Giảng viên: KHTN078</Data></Cell>
+   </Row>
+   <Row ss:Index="10" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mã SV</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m200042512"><Data ss:Type="String">Họ tên</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ngày sinh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tên Lớp</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CH.cần</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kiểm tra</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ghi chú</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="DateTime">2021-12-21T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2023401011404</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Thị Mai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trinh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19/10/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D20QTKD11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2023402010208</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Trường</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18/11/2001</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D20TCNH01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2023402010882</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Phương</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/12/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D20TCNH01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2023402011011</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Đào Tú</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trinh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">29/01/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D20TCNH01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2025102050452</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bảo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04/12/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D20CNOT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2121402020037</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đỗ Thị Kim</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hà</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21GDTH04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2121402020272</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Vương Hương</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Giang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21GDTH03</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2121402170193</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12/08/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21SPNV01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122104030433</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Duy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">06/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TKDH04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202010432</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Lê Khả</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Yến</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNAN03</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202010535</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Hạ Sương</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21/10/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNAN07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202010997</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Dịu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNAN01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202011324</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê ĐoàN PhụNg</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">YếN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">09/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNAN01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202040914</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hà Thị</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hoài</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">09/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNTQ01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202041196</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phan Thanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thảo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNTQ01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2122202041334</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Tường</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21NNTQ01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123102050275</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lâm Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trinh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QLNN01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123201040140</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Minh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trọng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTPT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123201040157</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đặng Thị Trà</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Giang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22/07/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTPT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123201040349</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trương Yến</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTPT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010016</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Thị Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Giàu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD13</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010105</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hồ Thị</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thúy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010212</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đặng Phi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Long</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">08/12/2001</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010476</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đặng Thị Trâm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Oanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010483</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hoàng Thị Mỹ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Uyên</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14/10/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010588</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cao Thị Yến</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">24/03/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010743</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đinh Thị Thùy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dương</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010838</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đỗ Thị Mỹ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trà</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">29/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">29</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010926</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Thị Hoàng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">An</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">06/02/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401010987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">20/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401011045</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trương Thị</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Yến</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30/10/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401011065</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Hồng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vân</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">33</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401011527</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đặng Thị Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">34</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401011748</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đào Nguyễn Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">35</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401011919</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phan Thị Như</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">36</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401012009</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đặng Cao Thanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thắm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10/01/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">37</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123401012146</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vũ Thị Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QTKD01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">38</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123402010174</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Thị Như</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">07/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TCNH05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">39</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123402010250</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lưu Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">11/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TCNH01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">40</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123402010508</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Thị Tuyết</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TCNH03</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">41</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123402010990</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Yến</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/04/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TCNH02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">42</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123402011081</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chu Như</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quỳnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">09/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TCNH06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">43</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403010155</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Quang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Triều</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">24/08/2001</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO09</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403010169</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Từ Thị Tuyết</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hồng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">45</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403010790</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Đỗ Thu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thảo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO08</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">46</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403010981</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Trần Bảo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Châu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">47</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403011048</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Võ Việt Diệu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hiền</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15/08/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">48</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403011169</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huỳnh Thị Thúy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nga</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO07</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">49</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123403011255</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tạ Thị Kim</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Oanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/10/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KETO06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">50</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123801010048</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phan Lê Thị Hồng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gấm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LUAT02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">51</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2123801011126</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lý Cẩm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhung</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LUAT06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">52</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2124801030136</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dũng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KTPM01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">53</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2124802050008</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Tuấn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vũ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">54</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2124802050013</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Hữu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nghĩa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">06/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">55</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2124802050022</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lục Tấn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Khoa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">02/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">56</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2124802050023</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hà Văn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hải</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050030</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bình</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">58</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050103</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Tuấn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kiệt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">59</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050105</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tĩnh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">60</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050119</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Đình</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phong</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">61</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050159</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trương Gia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Khang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT06</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">62</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050310</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Lưu Hữu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">An</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">02/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">63</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050451</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần  Minh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14/07/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">64</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050492</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trần Hoàng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vinh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">65</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050552</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Đăng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Khoa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">20/08/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">66</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050576</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đường Đăng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tướng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">67</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050758</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Mạnh Nhật</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Minh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">02/08/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">68</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125102050914</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Anh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vũ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CNOT03</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">69</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106010104</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Diệp Thị Kim</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thoa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">07/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QLCN01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">70</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106050150</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Hồng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thiện</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">71</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106050160</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Trung</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hiếu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25/04/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">72</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106050883</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huỳnh Nguyên</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lộc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">73</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106050947</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thị Dung</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/08/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">74</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106051071</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Thị Bích</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tiền</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL04</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">75</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125106051112</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Thảo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vân</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21LOQL05</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">76</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140023</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Trọng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">77</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140041</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lê Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tài</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22/06/2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">78</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140045</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Việt Quốc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hưng</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">17/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">79</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140096</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Lê Duy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">An</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01/10/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">80</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140113</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Văn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Huy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13/06/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">81</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140131</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bùi Văn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tuấn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15/05/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">82</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140137</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hồ Minh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ngọc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">02/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">83</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125201140139</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bùi Đức</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Giang</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04/12/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21CODT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">84</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125202070004</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đỗ Đình</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nam</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21DTVT01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125202160020</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Du Thanh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nhàn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28/04/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21DKTD02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">86</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125801010105</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đỗ Thị</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10/01/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KITR01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">87</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2125802010199</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nguyễn Khánh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Duy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19/11/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21KTXD02</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">88</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2128501030053</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ngô Đức</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trung</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">23/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QLDD01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">89</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2128501030103</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Phạm Văn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/03/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QLDD01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">90</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2128501030117</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Võ Ngọc ThùY</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dương</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12/09/2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">D21QLDD01</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Index="102" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Số sinh viên  trong danh sách: 90</Data></Cell>
+    <Cell ss:Index="6" ss:MergeAcross="4"><Data ss:Type="String">................, Ngày    tháng    năm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:MergeAcross="4"><Data ss:Type="String">Giảng viên giảng dạy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:MergeAcross="4"><Data ss:Type="String">(Ký và ghi rõ họ tên)</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:WorksheetOptions>
+   <x:Selected/>
+  </x:WorksheetOptions>
+</Workbook>

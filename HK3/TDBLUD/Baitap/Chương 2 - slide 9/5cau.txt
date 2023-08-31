@@ -1,0 +1,23 @@
+Câu 1:  (1) Coca-Cola là nước giải khát phổ biến.
+	-----------------------------------------------
+	Có người muốn uống Coca-Cola.
+
+Câu 2:  (1) Một số ngôi sao ta nhìn thấy đã tắt.
+	(2) Một số ngôi sao đã tắt là lỗ đen.
+	-----------------------------------------------
+	Một số ngôi sao ta nhìn thấy là lỗ đen.
+
+Câu 3:  (1) Ma quỷ đến đẻ trứng nhà nào thì nhà ấy sinh con gái đẹp.
+	(2) Ma quỷ đến nhà này.
+	------------------------------------------------
+	Nhà này con gái đẹp.
+
+Câu 4:  (1) Mọi niềm tin chính trị, thần thánh và xã hội chỉ được xác lập ở đám đông
+	    luôn mang hình thức tôn giáo.
+	-------------------------------------------------
+	Cần một tôn giáo cho đám đông.
+
+Câu 5:  (1) Người có tinh thần minh mẫn sẽ hạnh phúc.
+	(2) Người có thân thể tráng kiện sẽ hạnh phúc.
+	-------------------------------------------------
+	Người vừa có thân thể tráng kiện vừa có tinh thần minh mẫn sẽ hạnh phúc.
