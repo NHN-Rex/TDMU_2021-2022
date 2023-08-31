@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Eduweb</Author>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5724</WindowHeight>
+  <WindowWidth>17256</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="time new roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="m331701040">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="time new roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="time new roman" ss:Size="13" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="time new roman" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="time new roman" ss:Size="13"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="60" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="16.5">
+   <Column ss:Index="2" ss:Width="95.399999999999991"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Index="6" ss:Width="75.600000000000009"/>
+   <Column ss:AutoFitWidth="0" ss:Width="129"/>
+   <Row ss:AutoFitHeight="0" ss:Hidden="1">
+    <Cell><Data ss:Type="String">stt</Data></Cell>
+    <Cell><Data ss:Type="String">masv</Data></Cell>
+    <Cell><Data ss:Type="String">holotsv</Data></Cell>
+    <Cell><Data ss:Type="String">tensv</Data></Cell>
+    <Cell><Data ss:Type="String">ngaysinh</Data></Cell>
+    <Cell><Data ss:Type="String">malop</Data></Cell>
+    <Cell><Data ss:Type="String">T1</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2" ss:StyleID="s63"><Data ss:Type="String">Đại Học Thủ Dầu Một</Data></Cell>
+    <Cell ss:Index="5" ss:MergeAcross="3" ss:StyleID="s63"><Data ss:Type="String">Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2" ss:StyleID="s63"><Data ss:Type="String">Phòng Đào Tạo</Data></Cell>
+    <Cell ss:Index="5" ss:MergeAcross="3" ss:StyleID="s63"><Data ss:Type="String">Độc lập - Tự do - Hạnh Phúc</Data></Cell>
+   </Row>
+   <Row ss:Index="5" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s63"><Data ss:Type="String">BẢNG GHI ĐIỂM HỌC PHẦN </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s63"><Data ss:Type="String">Học kỳ 2 Năm học 2021 - 2022</Data></Cell>
+   </Row>
+   <Row ss:Index="8" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Tên môn học: Kỹ thuật lập trình (2+0)</Data></Cell>
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">Mã môn học/mã nhóm/tổ thi: LING105//001</Data></Cell>
+    <Cell><Data ss:Type="String">Số tín chỉ: 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Tên giảng viên:  Hồ Ngọc Trung Kiên </Data></Cell>
+    <Cell ss:MergeAcross="2"><Data ss:Type="String">Mã giảng viên CNTT067 </Data></Cell>
+   </Row>
+   <Row ss:Index="11" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Mã SV</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m331701040"><Data ss:Type="String">Họ tên</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ngày sinh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tên Lớp</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Điểm KTHP</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ghi chú</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1724601010065</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Tấn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tiền</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D17TOUD01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">7.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1724801040044</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phạm Thị Kiều</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">My</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D17HT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1824801040033</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Đức</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Long</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D18HT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1824801040036</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Huỳnh Lê Thanh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phú</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D18HT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1925202160036</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Anh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tài</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D19DK01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2024802010130</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Đặng Hữu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Danh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D20CNTT02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2024802050005</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Huỳnh Văn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hòa</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D20TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801030236</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Vũ Cát</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lợi</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21KTPM01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040004</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Đặng Trịnh Duy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040005</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Hoàng</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phúc</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040008</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ngô Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Duy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040017</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Ngọc Thanh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trung</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Lưu Gia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bảo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040021</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nhựt</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040027</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Văn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Toàn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040028</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ĐặNg Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dương</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040034</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tăng Trọng</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Thanh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040038</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Huỳnh Hùng</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Mạnh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040041</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phạm Võ Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tiến</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040049</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tuyền</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">8.8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040058</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Đàm Quang</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124801040059</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trịnh Anh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tuấn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21HTTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">4.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010011</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Mai Đức</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cường</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT07</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">0.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010095</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Quang</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">0.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">25</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010118</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lê Hoài</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nam</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT07</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010233</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Đình</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Đức</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010257</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Huy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lộc</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT07</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010322</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trịnh Phan Đình</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Luân</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">29</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010398</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dương</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">6.0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010400</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Gia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Khánh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5.8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010415</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Xuân</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tân</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">32</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010479</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Đức</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">33</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010520</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LeeMing</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Che</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT07</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">34</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010537</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Duy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quí</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT05</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">35</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010565</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Hồng</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sơn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">0.2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">36</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010570</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Thị Thanh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Thúy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">37</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010646</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Huỳnh Văn Gia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bảo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">38</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010720</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ngô Gia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT05</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">39</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802010725</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Minh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Khang</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21CNTT04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">40</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050007</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Trần Trung</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyên</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">41</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050008</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phạm Tuấn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Vũ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">42</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050013</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nguyễn Hữu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nghĩa</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">7.8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">43</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050020</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phan Thúy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Thanh</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050022</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lục Tấn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Khoa</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">5.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">45</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2124802050023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hà Văn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hải</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D21TTNT01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">VT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Index="58" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">Số sinh viên  trong danh sách: 45</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s72"><Data ss:Type="String">         , Ngày    tháng    năm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="s72"><Data ss:Type="String">Trưởng bộ môn</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s72"><Data ss:Type="String">Giảng viên giảng dạy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="s72"><Data ss:Type="String">(Ký và ghi rõ họ tên)</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s72"><Data ss:Type="String">(Ký và ghi rõ họ tên)</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:WorksheetOptions>
+   <x:Selected/>
+  </x:WorksheetOptions>
+</Workbook>
