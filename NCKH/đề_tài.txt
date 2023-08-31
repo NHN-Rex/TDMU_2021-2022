@@ -1,0 +1,5 @@
+kiểm tra trong phòng còn người hay không, nếu không sẽ tự tắt hết điện, để tiết kiệm
+ứng dụng tìm việc làm, hoặc tìm trọ cho sinh viên (math người cung và người cầu)
+
+đợt 1: 31/10/2021
+	ứng dụng máy học vào việc nhận diện tài xế ngủ gật khi lái xe.
